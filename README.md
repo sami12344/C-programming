@@ -2,6 +2,7 @@
 <h1 align="center"> C Programming </h1>
 Welcome to the C Programming repository! This repository is your gateway to mastering the art of programming using the C language.
 <p align="center">C is a versatile and influential programming language known for its efficiency, portability, and foundational role in software development.</p>
+
 ## About C
 C is a versatile and influential programming language that has stood the test of time. Developed in the early 1970s, it was created at Bell Labs as a successor to the B programming language. With a focus on providing low-level memory access and a simple, expressive syntax, C quickly gained popularity and became the foundation for many modern programming languages.
 
